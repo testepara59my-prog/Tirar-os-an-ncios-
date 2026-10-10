@@ -1,2 +1,2 @@
-# Tirar-os-an-ncios-
-DNS para tirar os anúncios do computador 
+94.140.14.14 dns 1
+94.140.15.15 dns 2
